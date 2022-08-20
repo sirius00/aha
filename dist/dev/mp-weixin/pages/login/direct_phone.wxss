@@ -1,0 +1,33 @@
+
+.background.data-v-61809d02 {
+  height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #FBD748;
+}
+.logo image.data-v-61809d02 {
+  width: 20vw;
+  height: 7vh;
+}
+.phoneNumber.data-v-61809d02 {
+  color: rgb(53, 58, 58);
+  font-size: 1.7rem;
+  font-weight: 400;
+}
+.posit.data-v-61809d02 {
+  width: 80vw;
+  height: 0vh;
+}
+.btArea.data-v-61809d02 {
+  border-radius: 20px;
+}
+.other.data-v-61809d02 {
+  margin-top: -5vh;
+  color: darkgray;
+}
+.last.data-v-61809d02 {
+  align-self: end;
+  margin-left: 3vw;
+}

@@ -1,0 +1,22 @@
+
+.btn.data-v-a270f364 {
+  width: 80vw;
+  margin: 0 auto;
+}
+.cpink.data-v-a270f364 {
+  color: azure;
+  background-image: linear-gradient(to right, #E455A1, #FDAD5B);
+  width: 80vw;
+  border-radius: 25px;
+}
+.cblue.data-v-a270f364 {
+  background-color: #3C5999;
+  width: 80vw;
+  border-radius: 25px;
+}
+.cnone.data-v-a270f364 {
+    width: 80vw;
+  border-radius: 25px;
+  border: #E455A1 1px solid;
+  background-color: #FBD748;
+}

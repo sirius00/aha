@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "手机号直接登录",
+  "usingComponents": {
+    "u-button": "../components/button/universialButton",
+    "agreement": "../components/widget/agreement"
+  }
+}

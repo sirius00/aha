@@ -1,0 +1,31 @@
+
+.background.data-v-6297bf21 {
+  height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #FBD748;
+}
+.logo.data-v-6297bf21 {
+  margin-top: -10vh;
+}
+.top_text.data-v-6297bf21 {
+  width: 70vw;
+  font-size: 0.9rem;
+  text-align: center;
+}
+.logo image.data-v-6297bf21 {
+  width: 30vw;
+  height: 30vh;
+}
+.bt.data-v-6297bf21 {
+  margin-top: 5vh;
+}
+.btArea.data-v-6297bf21 {
+  border-radius: 20px;
+}
+.posi.data-v-6297bf21 {
+  margin-bottom: 3vh;
+}
+

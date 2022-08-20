@@ -1,0 +1,1 @@
+<view><button bindtap="{{a}}">跳转</button></view>

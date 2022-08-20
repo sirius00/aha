@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "手机登录",
+  "usingComponents": {
+    "u-button": "../components/button/universialButton"
+  }
+}

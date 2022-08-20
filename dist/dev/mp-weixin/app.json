@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/direct_phone",
+    "pages/login/login_choice",
+    "pages/login/login_phone",
+    "pages/login/login_email",
+    "pages/login/my_code",
+    "pages/index/test"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "啊哈",
+    "navigationBarBackgroundColor": "#FBD748",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

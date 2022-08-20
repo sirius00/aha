@@ -1,0 +1,18 @@
+
+.agruement_sp.data-v-1d1def04 {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+	width: 20rem;
+}
+.agree_text.data-v-1d1def04 {
+	display: flex;
+}
+.xy_link.data-v-1d1def04 {
+	color: rgb(34, 116, 139);
+}
+.agree_log img.data-v-1d1def04 {
+	width: 70rpx;
+	height: 70rpx;
+}
